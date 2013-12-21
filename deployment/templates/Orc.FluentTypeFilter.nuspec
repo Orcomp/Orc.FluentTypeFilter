@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Orc.FluentTypeFilter</id>
+    <version>@build.number@</version>
+	<title>Orc.FluentTypeFilter</title>
+    <authors>Orcomp</authors>
+    <owners>Orcomp</owners>
+
+	<description>
+	  Allows you to easily extract the properties belonging to a class using a fluent interface
+	</description>
+	<summary>
+	</summary>
+	
+	<tags>fluent</tags>
+	<language>en-US</language>
+	<projectUrl>https://github.com/Orcomp/Orc.FluentTypeFilter</projectUrl>
+  </metadata>
+</package>
