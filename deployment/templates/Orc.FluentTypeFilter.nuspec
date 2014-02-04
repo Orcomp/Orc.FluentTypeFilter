@@ -16,5 +16,6 @@
 	<tags>fluent</tags>
 	<language>en-US</language>
 	<projectUrl>https://github.com/Orcomp/Orc.FluentTypeFilter</projectUrl>
+	@dependencies@
   </metadata>
 </package>
